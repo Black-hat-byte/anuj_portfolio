@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Anuj Pratap Maurya | Full Stack Developer</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Syne:wght@400;600;800&display=swap" rel="stylesheet"/>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav id="navbar">
+    <a href="#hero" class="logo">APM</a>
+    <div class="nav-links">
+      <a href="#projects">PROJECTS</a>
+      <a href="#skills">SKILLS</a>
+      <a href="#education">EDUCATION</a>
+      <a href="#contact">CONTACT</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section id="hero">
+    <div class="hero-left">
+      <div class="status-badge">Available for opportunities</div>
+      <h1>Anuj Pratap<br/><span class="accent">Maurya</span></h1>
+      <div class="typewriter-wrap">
+        <span id="typewriter"></span><span class="cursor">|</span>
+      </div>
+      <p class="hero-desc">
+        Passionate Full Stack Developer specializing in React, Node.js, TypeScript and AI/ML.
+        I love turning ideas into reality — from clean responsive UIs to intelligent backend systems.
+      </p>
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-num" data-target="1">0</span>
+          <span class="stat-label">Live Project</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">7.53</span>
+          <span class="stat-label">CGPA</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num" data-target="7">0</span>
+          <span class="stat-label">Tech Skills</span>
+        </div>
+      </div>
+      <div class="hero-btns">
+        <a href="#projects" class="btn-primary">&lt;/&gt; See Projects</a>
+        <a href="https://www.linkedin.com/in/anuj-pratap-maurya-577985294/" target="_blank" class="btn-secondary">View LinkedIn ↗</a>
+      </div>
+    </div>
+
+    <div class="hero-right">
+      <div class="specialization-tag">
+        <span class="tag-icon">🤖</span>
+        <div>
+          <div class="tag-label">Focus Area</div>
+          <div class="tag-value">AI & ML</div>
+        </div>
+      </div>
+      <div class="specialization-tag">
+        <span class="tag-icon">📍</span>
+        <div>
+          <div class="tag-label">Based in</div>
+          <div class="tag-value">Gorakhpur, India</div>
+        </div>
+      </div>
+      <div class="code-card">
+        <div class="code-card-header">
+          <span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span>
+          <span class="code-filename">developer.ts</span>
+        </div>
+        <pre class="code-body"><span class="kw">const</span> <span class="fn">developer</span> = {
+  name:       <span class="str">"Anuj Pratap Maurya"</span>,
+  role:       <span class="str">"Full Stack Developer"</span>,
+  passion:    <span class="str">"AI-powered Apps"</span>,
+  stack: [
+    <span class="str">"React"</span>, <span class="str">"Node.js"</span>,
+    <span class="str">"TypeScript"</span>, <span class="str">"Python"</span>
+  ],
+  university: <span class="str">"MMMUT Gorakhpur"</span>,
+  gpa:        <span class="num">7.53</span>,
+  openToWork: <span class="bool">true</span>,
+};</pre>
+      </div>
+    </div>
+    <div class="scroll-hint">SCROLL</div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section id="projects">
+    <div class="section-label">SELECTED WORK</div>
+    <h2 class="section-title">Featured Projects</h2>
+    <p class="section-sub">Hover a card to flip it and explore details.</p>
+
+    <div class="projects-grid">
+
+      <!-- Scoreboard Pro -->
+      <div class="flip-card">
+        <div class="flip-inner">
+          <div class="flip-front">
+            <div class="project-tag">FULL STACK / REAL-TIME</div>
+            <div class="project-icon">🏆</div>
+            <h3>Scoreboard Pro</h3>
+            <p>A real-time professional scoreboard application built with modern web technologies and live database sync.</p>
+            <div class="tech-tags">
+              <span>TypeScript</span><span>React</span><span>Supabase</span><span>Tailwind</span><span>Vite</span>
+            </div>
+            <div class="project-links">
+              <a href="https://github.com/Black-hat-byte/scoreboard-pro" target="_blank">⌥ Code</a>
+              <a href="https://scoreboard-pro-tan.vercel.app" target="_blank">↗ Live Demo</a>
+            </div>
+            <div class="flip-hint">HOVER TO FLIP ↻</div>
+          </div>
+          <div class="flip-back">
+            <div class="project-tag">FULL STACK / REAL-TIME</div>
+            <h3>Scoreboard Pro</h3>
+            <ul>
+              <li>Real-time score updates powered by Supabase live subscriptions</li>
+              <li>TypeScript + React frontend with clean component architecture</li>
+              <li>Tailwind CSS for responsive, modern UI design</li>
+              <li>Deployed on Vercel with fast global CDN performance</li>
+            </ul>
+            <div class="project-links">
+              <a href="https://scoreboard-pro-tan.vercel.app" target="_blank">↗ Live Demo</a>
+              <a href="https://github.com/Black-hat-byte/scoreboard-pro" target="_blank">⌥ Code</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Portfolio -->
+      <div class="flip-card">
+        <div class="flip-inner">
+          <div class="flip-front">
+            <div class="project-tag">FRONTEND / UI</div>
+            <div class="project-icon">🌐</div>
+            <h3>Developer Portfolio</h3>
+            <p>Personal portfolio website with dark futuristic design, typewriter animations and smooth scroll effects.</p>
+            <div class="tech-tags">
+              <span>HTML5</span><span>CSS3</span><span>JavaScript</span>
+            </div>
+            <div class="project-links">
+              <a href="https://github.com/Black-hat-byte" target="_blank">⌥ Code</a>
+            </div>
+            <div class="flip-hint">HOVER TO FLIP ↻</div>
+          </div>
+          <div class="flip-back">
+            <div class="project-tag">FRONTEND / UI</div>
+            <h3>Developer Portfolio</h3>
+            <ul>
+              <li>Dark futuristic design with custom animations</li>
+              <li>Typewriter effect and smooth scroll reveal</li>
+              <li>Flip project cards with live demo links</li>
+              <li>Fully responsive across all screen sizes</li>
+            </ul>
+            <div class="project-links">
+              <a href="https://github.com/Black-hat-byte" target="_blank">⌥ View Code</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section id="skills">
+    <div class="section-label">TECHNICAL ARSENAL</div>
+    <h2 class="section-title">Skills & Technologies</h2>
+
+    <div class="skills-grid">
+      <div class="skill-group">
+        <div class="skill-icon">💬</div>
+        <h4>Languages</h4>
+        <div class="skill-pills"><span>C</span><span>C++</span><span>Python</span><span>JavaScript</span><span>TypeScript</span></div>
+      </div>
+      <div class="skill-group">
+        <div class="skill-icon">🎨</div>
+        <h4>Frontend</h4>
+        <div class="skill-pills"><span>React.js</span><span>HTML5</span><span>CSS3</span><span>Tailwind CSS</span></div>
+      </div>
+      <div class="skill-group">
+        <div class="skill-icon">⚙️</div>
+        <h4>Backend</h4>
+        <div class="skill-pills"><span>Node.js</span><span>REST APIs</span><span>Supabase</span></div>
+      </div>
+      <div class="skill-group">
+        <div class="skill-icon">🧠</div>
+        <h4>AI/ML (Learning)</h4>
+        <div class="skill-pills"><span>TensorFlow</span><span>NumPy</span><span>Pandas</span><span>Python</span></div>
+      </div>
+      <div class="skill-group">
+        <div class="skill-icon">🛠️</div>
+        <h4>Tools</h4>
+        <div class="skill-pills"><span>Git</span><span>GitHub</span><span>VS Code</span><span>Vite</span><span>Postman</span></div>
+      </div>
+      <div class="skill-group">
+        <div class="skill-icon">📐</div>
+        <h4>Core CS</h4>
+        <div class="skill-pills"><span>DSA</span><span>OOPs</span><span>Algorithms</span><span>Computer Networks</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EDUCATION -->
+  <section id="education">
+    <div class="section-label">EDUCATION</div>
+    <h2 class="section-title">Academic Background</h2>
+
+    <div class="edu-list">
+      <div class="edu-card">
+        <div class="edu-year">2023 – 2027</div>
+        <div class="edu-info">
+          <h3>B.Tech — Computer Science & Engineering</h3>
+          <p class="edu-college">Madan Mohan Malaviya University of Technology, Gorakhpur</p>
+          <p class="edu-meta">GPA: 7.53 / 10</p>
+          <p class="edu-courses">Courses: DSA · Computer Networks · AI-ML · C/C++/Python · OOPs</p>
+        </div>
+      </div>
+      <div class="edu-card">
+        <div class="edu-year">2022</div>
+        <div class="edu-info">
+          <h3>Intermediate — Science (PCM)</h3>
+          <p class="edu-college">Ganga Inter Mediate College, Prayagraj · UP Board</p>
+        </div>
+      </div>
+      <div class="edu-card">
+        <div class="edu-year">2020</div>
+        <div class="edu-info">
+          <h3>High School</h3>
+          <p class="edu-college">Ganga Inter Mediate College, Prayagraj · UP Board</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="section-label">GET IN TOUCH</div>
+    <h2 class="section-title">Let's Work <br/><span class="accent">Together</span></h2>
+    <p class="contact-sub">Currently open for Full Stack Development and AI/ML roles.<br/>Let's build something intelligent and impactful.</p>
+
+    <div class="contact-links">
+      <a href="mailto:anujpratapmaurya5@gmail.com" class="contact-main">✉ anujpratapmaurya5@gmail.com</a>
+      <a href="https://www.linkedin.com/in/anuj-pratap-maurya-577985294/" target="_blank" class="contact-main">in LinkedIn</a>
+    </div>
+
+    <div class="contact-footer">
+      <span>📍 Gorakhpur, Uttar Pradesh, India</span>
+      <a href="https://github.com/Black-hat-byte" target="_blank">⌥ GitHub</a>
+    </div>
+
+    <p class="copyright">© 2026 Anuj Pratap Maurya · Crafted with passion</p>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
