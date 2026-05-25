@@ -2,77 +2,105 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Anuj Pratap Maurya | Full Stack Developer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;500;600;700&family=Cabinet+Grotesk:wght@300;400;500;700;800&family=Instrument+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Syne:wght@400;600;800&display=swap" rel="stylesheet"/>
 </head>
 <body>
 
-  <!-- NAV -->
-  <nav id="navbar">
-    <a href="#hero" class="logo">APM</a>
-    <div class="nav-links">
-      <a href="#projects">PROJECTS</a>
-      <a href="#skills">SKILLS</a>
-      <a href="#education">EDUCATION</a>
-      <a href="#contact">CONTACT</a>
-    </div>
-  </nav>
+<!-- Custom cursor -->
+<div id="cursor"></div>
+<div id="cursor-ring"></div>
 
-  <!-- HERO -->
-  <section id="hero">
-    <div class="hero-left">
-      <div class="status-badge">Available for opportunities</div>
-      <h1>Anuj Pratap<br/><span class="accent">Maurya</span></h1>
-      <div class="typewriter-wrap">
-        <span id="typewriter"></span><span class="cursor">|</span>
+<!-- ══════════ NAVBAR ══════════ -->
+<nav id="navbar">
+  <a href="#hero" class="logo"><span>AM</span></a>
+  <div class="nav-links">
+    <a href="#projects" class="nav-link">PROJECTS</a>
+    <a href="#skills" class="nav-link">SKILLS</a>
+    <a href="#experience" class="nav-link">EDUCATION</a>
+    <a href="#contact" class="nav-link">CONTACT</a>
+  </div>
+</nav>
+
+<!-- ══════════ HERO ══════════ -->
+<section id="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-grid-bg"></div>
+  <div class="orb orb1"></div>
+  <div class="orb orb2"></div>
+
+  <div class="hero-inner">
+    <!-- Left -->
+    <div>
+      <div class="status-badge">
+        <span class="status-dot"></span>
+        <span class="status-text">Available for opportunities</span>
       </div>
-      <p class="hero-desc">
-        Passionate Full Stack Developer specializing in React, Node.js, TypeScript and AI/ML.
-        I love turning ideas into reality — from clean responsive UIs to intelligent backend systems.
-      </p>
+
+      <h1 class="hero-name">
+        <span class="line1">Anuj Pratap</span>
+        <span class="line2">Maurya</span>
+      </h1>
+
+      <div class="hero-role">
+        <span id="typewriter"></span><span class="blink">_</span>
+      </div>
+
+      <div class="hero-bio">
+        Passionate Full Stack Developer specializing in React, Node.js, TypeScript and AI/ML applications. I love turning ideas into intelligent, scalable products — from clean UIs to smart backend systems.
+      </div>
+
       <div class="hero-stats">
-        <div class="stat">
-          <span class="stat-num" data-target="1">0</span>
-          <span class="stat-label">Live Project</span>
+        <div>
+          <div class="stat-val" data-target="1" data-suffix="">0</div>
+          <div class="stat-label">Live Project</div>
         </div>
-        <div class="stat">
-          <span class="stat-num">7.53</span>
-          <span class="stat-label">CGPA</span>
+        <div>
+          <div class="stat-val" data-target="7.53" data-suffix="" data-dec="2">0</div>
+          <div class="stat-label">CGPA</div>
         </div>
-        <div class="stat">
-          <span class="stat-num" data-target="7">0</span>
-          <span class="stat-label">Tech Skills</span>
+        <div>
+          <div class="stat-val" data-target="7" data-suffix="+">0</div>
+          <div class="stat-label">Tech Skills</div>
         </div>
       </div>
-      <div class="hero-btns">
-        <a href="#projects" class="btn-primary">&lt;/&gt; See Projects</a>
-        <a href="https://www.linkedin.com/in/anuj-pratap-maurya-577985294/" target="_blank" class="btn-secondary">View LinkedIn ↗</a>
+
+      <div class="hero-ctas">
+        <a href="https://www.linkedin.com/in/anuj-pratap-maurya-577985294/" target="_blank" class="btn-primary"><span>View LinkedIn ↗</span></a>
+        <a href="#projects" class="btn-outline">&lt;/&gt; See Projects</a>
       </div>
     </div>
 
-    <div class="hero-right">
-      <div class="specialization-tag">
-        <span class="tag-icon">🤖</span>
+    <!-- Right: Code card -->
+    <div class="code-card">
+      <!-- Floating badge top -->
+      <div class="float-badge top-right">
+        <div style="width:32px;height:32px;border-radius:8px;background:var(--orange-dim);border:1px solid rgba(251,146,60,0.3);display:flex;align-items:center;justify-content:center;font-size:1rem">🤖</div>
         <div>
-          <div class="tag-label">Focus Area</div>
-          <div class="tag-value">AI & ML</div>
+          <div style="font-family:var(--font-mono);font-size:0.58rem;color:var(--text-muted)">Focus Area</div>
+          <div style="font-weight:700;font-size:0.82rem;color:#fff">AI & ML</div>
         </div>
       </div>
-      <div class="specialization-tag">
-        <span class="tag-icon">📍</span>
+
+      <!-- Floating badge bottom -->
+      <div class="float-badge bot-left">
+        <div style="width:8px;height:8px;border-radius:50%;background:#10b981;box-shadow:0 0 8px #10b981;animation:pulse 2s ease-in-out infinite"></div>
         <div>
-          <div class="tag-label">Based in</div>
-          <div class="tag-value">Gorakhpur, India</div>
+          <div style="font-size:0.6rem;color:var(--text-muted)">Based in</div>
+          <div style="font-weight:600;font-size:0.8rem;color:#fff">Gorakhpur, India</div>
         </div>
       </div>
-      <div class="code-card">
-        <div class="code-card-header">
-          <span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span>
+
+      <div class="code-card-inner">
+        <div class="code-header">
+          <div class="dot-r"></div><div class="dot-y"></div><div class="dot-g"></div>
           <span class="code-filename">developer.ts</span>
         </div>
-        <pre class="code-body"><span class="kw">const</span> <span class="fn">developer</span> = {
+        <div class="code-body">
+          <pre><span class="kw">const</span> <span class="fn">developer</span> = {
   name:       <span class="str">"Anuj Pratap Maurya"</span>,
   role:       <span class="str">"Full Stack Developer"</span>,
   passion:    <span class="str">"AI-powered Apps"</span>,
@@ -82,180 +110,222 @@
   ],
   university: <span class="str">"MMMUT Gorakhpur"</span>,
   gpa:        <span class="num">7.53</span>,
-  openToWork: <span class="bool">true</span>,
+  openToWork: <span class="num">true</span>,
 };</pre>
+        </div>
       </div>
     </div>
-    <div class="scroll-hint">SCROLL</div>
-  </section>
+  </div>
 
-  <!-- PROJECTS -->
-  <section id="projects">
-    <div class="section-label">SELECTED WORK</div>
-    <h2 class="section-title">Featured Projects</h2>
-    <p class="section-sub">Hover a card to flip it and explore details.</p>
+  <!-- Scroll hint -->
+  <div style="position:absolute;bottom:28px;left:50%;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:6px;color:var(--text-muted)">
+    <span style="font-family:var(--font-mono);font-size:0.58rem;letter-spacing:0.2em">SCROLL</span>
+    <div style="width:1px;height:28px;background:linear-gradient(to bottom,var(--text-muted),transparent)"></div>
+  </div>
+</section>
+
+<!-- ══════════ PROJECTS ══════════ -->
+<section id="projects" class="section">
+  <div class="section-inner">
+    <span class="section-label reveal">SELECTED WORK</span>
+    <h2 class="section-title reveal reveal-d1">Featured Projects</h2>
+    <p class="section-sub reveal reveal-d2">Hover a card to flip it and explore details. Real-world apps built with modern web technologies.</p>
 
     <div class="projects-grid">
 
-      <!-- Scoreboard Pro -->
-      <div class="flip-card">
-        <div class="flip-inner">
-          <div class="flip-front">
-            <div class="project-tag">FULL STACK / REAL-TIME</div>
-            <div class="project-icon">🏆</div>
-            <h3>Scoreboard Pro</h3>
-            <p>A real-time professional scoreboard application built with modern web technologies and live database sync.</p>
-            <div class="tech-tags">
-              <span>TypeScript</span><span>React</span><span>Supabase</span><span>Tailwind</span><span>Vite</span>
+      <!-- Project 1: Scoreboard Pro -->
+      <div class="proj-wrapper reveal reveal-d1">
+        <div class="proj-card-3d">
+          <div class="proj-front proj-face" style="border-color:rgba(251,146,60,0.2)">
+            <div class="proj-visual" style="border-bottom:1px solid rgba(251,146,60,0.12);background:linear-gradient(135deg,#1a0f00,#0a0f1e)">
+              <div class="proj-visual-ring" style="width:200px;height:200px;border-color:rgba(251,146,60,0.1)"></div>
+              <div class="proj-visual-ring" style="width:130px;height:130px;border-color:rgba(251,146,60,0.18)"></div>
+              <span class="proj-icon">🏆</span>
+              <div class="proj-tag-badge" style="background:rgba(251,146,60,0.14);border:1px solid rgba(251,146,60,0.4);color:var(--orange)">FULL STACK / REAL-TIME</div>
             </div>
-            <div class="project-links">
-              <a href="https://github.com/Black-hat-byte/scoreboard-pro" target="_blank">⌥ Code</a>
-              <a href="https://scoreboard-pro-tan.vercel.app" target="_blank">↗ Live Demo</a>
+            <div class="proj-content">
+              <h3 class="proj-title">Scoreboard Pro</h3>
+              <p class="proj-desc">A real-time professional scoreboard application built with TypeScript, React and Supabase live database sync. Deployed live on Vercel.</p>
+              <div class="proj-tags">
+                <span class="tag">TypeScript</span><span class="tag">React</span><span class="tag">Supabase</span><span class="tag">Tailwind</span><span class="tag">Vite</span>
+              </div>
+              <div class="proj-links">
+                <a href="https://github.com/Black-hat-byte/scoreboard-pro" target="_blank" class="proj-link">⌥ Code</a>
+                <a href="https://scoreboard-pro-tan.vercel.app" target="_blank" class="proj-link">↗ Live Demo</a>
+              </div>
             </div>
             <div class="flip-hint">HOVER TO FLIP ↻</div>
           </div>
-          <div class="flip-back">
-            <div class="project-tag">FULL STACK / REAL-TIME</div>
-            <h3>Scoreboard Pro</h3>
-            <ul>
-              <li>Real-time score updates powered by Supabase live subscriptions</li>
-              <li>TypeScript + React frontend with clean component architecture</li>
-              <li>Tailwind CSS for responsive, modern UI design</li>
-              <li>Deployed on Vercel with fast global CDN performance</li>
-            </ul>
-            <div class="project-links">
-              <a href="https://scoreboard-pro-tan.vercel.app" target="_blank">↗ Live Demo</a>
-              <a href="https://github.com/Black-hat-byte/scoreboard-pro" target="_blank">⌥ Code</a>
+          <div class="proj-back proj-face">
+            <div>
+              <div class="proj-back-badge" style="background:rgba(251,146,60,0.14);border:1px solid rgba(251,146,60,0.4);color:var(--orange)">FULL STACK / REAL-TIME</div>
+              <div class="proj-back-title">Scoreboard Pro</div>
+            </div>
+            <div class="proj-feat"><div class="proj-feat-dot" style="background:var(--orange)"></div><div class="proj-feat-text">Real-time score updates via Supabase live subscriptions</div></div>
+            <div class="proj-feat"><div class="proj-feat-dot" style="background:var(--orange)"></div><div class="proj-feat-text">TypeScript + React with clean component architecture</div></div>
+            <div class="proj-feat"><div class="proj-feat-dot" style="background:var(--orange)"></div><div class="proj-feat-text">Tailwind CSS for responsive, polished UI design</div></div>
+            <div class="proj-feat"><div class="proj-feat-dot" style="background:var(--orange)"></div><div class="proj-feat-text">Deployed on Vercel with fast global CDN performance</div></div>
+            <div class="proj-back-actions">
+              <a href="https://scoreboard-pro-tan.vercel.app" target="_blank" class="back-btn back-btn-primary">↗ Live Demo</a>
+              <a href="https://github.com/Black-hat-byte/scoreboard-pro" target="_blank" class="back-btn back-btn-secondary">⌥ Code</a>
             </div>
           </div>
         </div>
       </div>
 
-      <!-- Portfolio -->
-      <div class="flip-card">
-        <div class="flip-inner">
-          <div class="flip-front">
-            <div class="project-tag">FRONTEND / UI</div>
-            <div class="project-icon">🌐</div>
-            <h3>Developer Portfolio</h3>
-            <p>Personal portfolio website with dark futuristic design, typewriter animations and smooth scroll effects.</p>
-            <div class="tech-tags">
-              <span>HTML5</span><span>CSS3</span><span>JavaScript</span>
+      <!-- Project 2: Portfolio -->
+      <div class="proj-wrapper reveal reveal-d2">
+        <div class="proj-card-3d">
+          <div class="proj-front proj-face" style="border-color:rgba(56,189,248,0.2)">
+            <div class="proj-visual" style="border-bottom:1px solid rgba(56,189,248,0.12);background:linear-gradient(135deg,#001520,#0a0f1e)">
+              <div class="proj-visual-ring" style="width:200px;height:200px;border-color:rgba(56,189,248,0.1)"></div>
+              <div class="proj-visual-ring" style="width:130px;height:130px;border-color:rgba(56,189,248,0.18)"></div>
+              <span class="proj-icon">🌐</span>
+              <div class="proj-tag-badge" style="background:rgba(56,189,248,0.14);border:1px solid rgba(56,189,248,0.4);color:var(--sky)">FRONTEND / UI</div>
             </div>
-            <div class="project-links">
-              <a href="https://github.com/Black-hat-byte" target="_blank">⌥ Code</a>
+            <div class="proj-content">
+              <h3 class="proj-title">Developer Portfolio</h3>
+              <p class="proj-desc">Personal portfolio website with a dark futuristic design, 3D flip cards, typewriter animations and scroll reveal effects.</p>
+              <div class="proj-tags">
+                <span class="tag">HTML5</span><span class="tag">CSS3</span><span class="tag">JavaScript</span>
+              </div>
+              <div class="proj-links">
+                <a href="https://github.com/Black-hat-byte" target="_blank" class="proj-link">⌥ Code</a>
+              </div>
             </div>
             <div class="flip-hint">HOVER TO FLIP ↻</div>
           </div>
-          <div class="flip-back">
-            <div class="project-tag">FRONTEND / UI</div>
-            <h3>Developer Portfolio</h3>
-            <ul>
-              <li>Dark futuristic design with custom animations</li>
-              <li>Typewriter effect and smooth scroll reveal</li>
-              <li>Flip project cards with live demo links</li>
-              <li>Fully responsive across all screen sizes</li>
-            </ul>
-            <div class="project-links">
-              <a href="https://github.com/Black-hat-byte" target="_blank">⌥ View Code</a>
+          <div class="proj-back proj-face">
+            <div>
+              <div class="proj-back-badge" style="background:rgba(56,189,248,0.14);border:1px solid rgba(56,189,248,0.4);color:var(--sky)">FRONTEND / UI</div>
+              <div class="proj-back-title">Developer Portfolio</div>
+            </div>
+            <div class="proj-feat"><div class="proj-feat-dot" style="background:var(--sky)"></div><div class="proj-feat-text">Dark futuristic design with orbs and grid background</div></div>
+            <div class="proj-feat"><div class="proj-feat-dot" style="background:var(--sky)"></div><div class="proj-feat-text">3D flip project cards with smooth hover animations</div></div>
+            <div class="proj-feat"><div class="proj-feat-dot" style="background:var(--sky)"></div><div class="proj-feat-text">Typewriter effect, custom cursor and scroll reveal</div></div>
+            <div class="proj-feat"><div class="proj-feat-dot" style="background:var(--sky)"></div><div class="proj-feat-text">Fully responsive across mobile, tablet and desktop</div></div>
+            <div class="proj-back-actions">
+              <a href="https://github.com/Black-hat-byte" target="_blank" class="back-btn back-btn-primary">⌥ View Code</a>
             </div>
           </div>
         </div>
       </div>
 
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- SKILLS -->
-  <section id="skills">
-    <div class="section-label">TECHNICAL ARSENAL</div>
-    <h2 class="section-title">Skills & Technologies</h2>
+<!-- ══════════ SKILLS ══════════ -->
+<section id="skills" class="section" style="background:linear-gradient(180deg,transparent 0%,rgba(251,146,60,0.018) 50%,transparent 100%)">
+  <div class="section-inner">
+    <span class="section-label reveal">TECHNICAL ARSENAL</span>
+    <h2 class="section-title reveal reveal-d1">Skills & Technologies</h2>
 
     <div class="skills-grid">
-      <div class="skill-group">
-        <div class="skill-icon">💬</div>
-        <h4>Languages</h4>
-        <div class="skill-pills"><span>C</span><span>C++</span><span>Python</span><span>JavaScript</span><span>TypeScript</span></div>
+
+      <div class="skill-card reveal" onmouseover="this.style.borderColor='rgba(251,146,60,0.3)';this.style.boxShadow='0 8px 30px rgba(251,146,60,0.08)'" onmouseout="this.style.borderColor='rgba(255,255,255,0.07)';this.style.boxShadow='none'">
+        <div class="skill-card-header"><div class="skill-icon" style="background:var(--orange-dim);border:1px solid rgba(251,146,60,0.3)">💬</div><div class="skill-cat" style="color:var(--orange)">Languages</div></div>
+        <div class="skill-tags"><span class="tag">C</span><span class="tag">C++</span><span class="tag">Python</span><span class="tag">JavaScript</span><span class="tag">TypeScript</span></div>
       </div>
-      <div class="skill-group">
-        <div class="skill-icon">🎨</div>
-        <h4>Frontend</h4>
-        <div class="skill-pills"><span>React.js</span><span>HTML5</span><span>CSS3</span><span>Tailwind CSS</span></div>
+
+      <div class="skill-card reveal reveal-d1" onmouseover="this.style.borderColor='rgba(56,189,248,0.3)';this.style.boxShadow='0 8px 30px rgba(56,189,248,0.08)'" onmouseout="this.style.borderColor='rgba(255,255,255,0.07)';this.style.boxShadow='none'">
+        <div class="skill-card-header"><div class="skill-icon" style="background:var(--sky-dim);border:1px solid rgba(56,189,248,0.3)">🎨</div><div class="skill-cat" style="color:var(--sky)">Frontend</div></div>
+        <div class="skill-tags"><span class="tag">React.js</span><span class="tag">HTML5</span><span class="tag">CSS3</span><span class="tag">Tailwind CSS</span></div>
       </div>
-      <div class="skill-group">
-        <div class="skill-icon">⚙️</div>
-        <h4>Backend</h4>
-        <div class="skill-pills"><span>Node.js</span><span>REST APIs</span><span>Supabase</span></div>
+
+      <div class="skill-card reveal reveal-d2" onmouseover="this.style.borderColor='rgba(52,211,153,0.3)';this.style.boxShadow='0 8px 30px rgba(52,211,153,0.07)'" onmouseout="this.style.borderColor='rgba(255,255,255,0.07)';this.style.boxShadow='none'">
+        <div class="skill-card-header"><div class="skill-icon" style="background:var(--green-dim);border:1px solid rgba(52,211,153,0.3)">⚙️</div><div class="skill-cat" style="color:var(--green)">Backend</div></div>
+        <div class="skill-tags"><span class="tag">Node.js</span><span class="tag">REST APIs</span><span class="tag">Supabase</span></div>
       </div>
-      <div class="skill-group">
-        <div class="skill-icon">🧠</div>
-        <h4>AI/ML (Learning)</h4>
-        <div class="skill-pills"><span>TensorFlow</span><span>NumPy</span><span>Pandas</span><span>Python</span></div>
+
+      <div class="skill-card reveal reveal-d3" onmouseover="this.style.borderColor='rgba(168,85,247,0.3)';this.style.boxShadow='0 8px 30px rgba(168,85,247,0.08)'" onmouseout="this.style.borderColor='rgba(255,255,255,0.07)';this.style.boxShadow='none'">
+        <div class="skill-card-header"><div class="skill-icon" style="background:var(--purple-dim);border:1px solid rgba(168,85,247,0.3)">🧠</div><div class="skill-cat" style="color:var(--purple)">AI/ML (Learning)</div></div>
+        <div class="skill-tags"><span class="tag">TensorFlow</span><span class="tag">NumPy</span><span class="tag">Pandas</span><span class="tag">Python</span></div>
       </div>
-      <div class="skill-group">
-        <div class="skill-icon">🛠️</div>
-        <h4>Tools</h4>
-        <div class="skill-pills"><span>Git</span><span>GitHub</span><span>VS Code</span><span>Vite</span><span>Postman</span></div>
+
+      <div class="skill-card reveal reveal-d1" onmouseover="this.style.borderColor='rgba(251,191,36,0.3)';this.style.boxShadow='0 8px 30px rgba(251,191,36,0.08)'" onmouseout="this.style.borderColor='rgba(255,255,255,0.07)';this.style.boxShadow='none'">
+        <div class="skill-card-header"><div class="skill-icon" style="background:rgba(251,191,36,0.1);border:1px solid rgba(251,191,36,0.3)">🛠️</div><div class="skill-cat" style="color:var(--amber)">Tools</div></div>
+        <div class="skill-tags"><span class="tag">Git</span><span class="tag">GitHub</span><span class="tag">VS Code</span><span class="tag">Vite</span><span class="tag">Postman</span></div>
       </div>
-      <div class="skill-group">
-        <div class="skill-icon">📐</div>
-        <h4>Core CS</h4>
-        <div class="skill-pills"><span>DSA</span><span>OOPs</span><span>Algorithms</span><span>Computer Networks</span></div>
+
+      <div class="skill-card reveal reveal-d2" onmouseover="this.style.borderColor='rgba(167,139,250,0.3)';this.style.boxShadow='0 8px 30px rgba(167,139,250,0.08)'" onmouseout="this.style.borderColor='rgba(255,255,255,0.07)';this.style.boxShadow='none'">
+        <div class="skill-card-header"><div class="skill-icon" style="background:rgba(167,139,250,0.12);border:1px solid rgba(167,139,250,0.3)">📐</div><div class="skill-cat" style="color:#a78bfa">Core CS</div></div>
+        <div class="skill-tags"><span class="tag">DSA</span><span class="tag">OOPs</span><span class="tag">Algorithms</span><span class="tag">Computer Networks</span></div>
       </div>
+
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- EDUCATION -->
-  <section id="education">
-    <div class="section-label">EDUCATION</div>
-    <h2 class="section-title">Academic Background</h2>
+<!-- ══════════ EDUCATION ══════════ -->
+<section id="experience" class="section">
+  <div class="section-inner">
+    <span class="section-label reveal">ACADEMIC BACKGROUND</span>
+    <h2 class="section-title reveal reveal-d1">Education</h2>
 
-    <div class="edu-list">
-      <div class="edu-card">
-        <div class="edu-year">2023 – 2027</div>
-        <div class="edu-info">
-          <h3>B.Tech — Computer Science & Engineering</h3>
-          <p class="edu-college">Madan Mohan Malaviya University of Technology, Gorakhpur</p>
-          <p class="edu-meta">GPA: 7.53 / 10</p>
-          <p class="edu-courses">Courses: DSA · Computer Networks · AI-ML · C/C++/Python · OOPs</p>
+    <div class="exp-layout" style="grid-template-columns:1fr">
+
+      <div>
+        <div class="cert-list">
+
+          <div class="edu-card reveal reveal-d1" style="margin-bottom:1rem">
+            <div class="edu-degree">B.Tech — Computer Science & Engineering</div>
+            <div class="edu-uni">Madan Mohan Malaviya University of Technology, Gorakhpur</div>
+            <div class="edu-meta">
+              <span>2023 – 2027</span>
+              <span style="color:var(--green)">GPA: 7.53 / 10</span>
+            </div>
+            <div class="edu-courses">Courses: DSA · Computer Networks · AI-ML · C/C++/Python · OOPs · Algorithms</div>
+          </div>
+
+          <div class="edu-card reveal reveal-d2" style="margin-bottom:1rem">
+            <div class="edu-degree">Intermediate — Science (PCM)</div>
+            <div class="edu-uni">Ganga Inter Mediate College, Prayagraj · UP Board</div>
+            <div class="edu-meta"><span>2022</span></div>
+          </div>
+
+          <div class="edu-card reveal reveal-d3">
+            <div class="edu-degree">High School</div>
+            <div class="edu-uni">Ganga Inter Mediate College, Prayagraj · UP Board</div>
+            <div class="edu-meta"><span>2020</span></div>
+          </div>
+
         </div>
       </div>
-      <div class="edu-card">
-        <div class="edu-year">2022</div>
-        <div class="edu-info">
-          <h3>Intermediate — Science (PCM)</h3>
-          <p class="edu-college">Ganga Inter Mediate College, Prayagraj · UP Board</p>
-        </div>
-      </div>
-      <div class="edu-card">
-        <div class="edu-year">2020</div>
-        <div class="edu-info">
-          <h3>High School</h3>
-          <p class="edu-college">Ganga Inter Mediate College, Prayagraj · UP Board</p>
-        </div>
-      </div>
+
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- CONTACT -->
-  <section id="contact">
-    <div class="section-label">GET IN TOUCH</div>
-    <h2 class="section-title">Let's Work <br/><span class="accent">Together</span></h2>
-    <p class="contact-sub">Currently open for Full Stack Development and AI/ML roles.<br/>Let's build something intelligent and impactful.</p>
+<!-- ══════════ CONTACT ══════════ -->
+<section id="contact">
+  <div class="contact-bg"></div>
+  <div class="contact-inner">
+    <span class="section-label reveal" style="justify-content:center">GET IN TOUCH</span>
+    <h2 class="contact-title reveal reveal-d1">Let's Work<br><span class="gradient-word">Together</span></h2>
+    <p class="contact-sub reveal reveal-d2">Currently open for Full Stack Development and AI/ML roles.<br>Let's build something intelligent and impactful.</p>
 
-    <div class="contact-links">
-      <a href="mailto:anujpratapmaurya5@gmail.com" class="contact-main">✉ anujpratapmaurya5@gmail.com</a>
-      <a href="https://www.linkedin.com/in/anuj-pratap-maurya-577985294/" target="_blank" class="contact-main">in LinkedIn</a>
+    <div class="contact-ctas reveal reveal-d3">
+      <a href="mailto:anujpratapmaurya5@gmail.com" class="btn-primary" style="border-radius:50px"><span>✉ anujpratapmaurya5@gmail.com</span></a>
+      <a href="https://www.linkedin.com/in/anuj-pratap-maurya-577985294/" target="_blank" class="btn-outline" style="border-radius:50px">in LinkedIn</a>
     </div>
 
-    <div class="contact-footer">
+    <div class="contact-info reveal">
       <span>📍 Gorakhpur, Uttar Pradesh, India</span>
-      <a href="https://github.com/Black-hat-byte" target="_blank">⌥ GitHub</a>
+      <span style="opacity:0.3">|</span>
+      <a href="https://github.com/Black-hat-byte" target="_blank" style="color:var(--text-muted);text-decoration:none" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='var(--text-muted)'">⌥ GitHub</a>
     </div>
 
-    <p class="copyright">© 2026 Anuj Pratap Maurya · Crafted with passion</p>
-  </section>
+    <div class="contact-links reveal">
+      <a href="#projects" class="contact-link">View Projects</a>
+      <a href="https://github.com/Black-hat-byte" class="contact-link">GitHub Profile</a>
+      <a href="https://www.linkedin.com/in/anuj-pratap-maurya-577985294/" target="_blank" class="contact-link">LinkedIn</a>
+    </div>
+  </div>
+</section>
 
-  <script src="script.js"></script>
+<footer>© 2026 Anuj Pratap Maurya · Crafted with passion</footer>
+
+<script src="script.js"></script>
 </body>
 </html>
