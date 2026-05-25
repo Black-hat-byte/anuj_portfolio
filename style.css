@@ -1,423 +1,1062 @@
-/* ===== RESET & BASE ===== */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+hey as you know i am shikha 3rd year b tech student , hey actually i need a help , my friend anuj who are beginner in github also a third year student of btech cse can you iprove his github profile as i give you screenshot of his github
+
+May 18
+Please go ahead and share the screenshot of Anuj's GitHub profile! Once I can see it, I'll give you specific suggestions to improve it.
+
+1779097629826_image.png
+May 18
+I can see Anuj's GitHub profile clearly! Here's a full breakdown of what to improve:
+
+🔍 Current Profile Analysis — Anuj pratap maurya (@Black-hat-byte)
+What's good ✅
+
+Has a profile photo
+Has pronouns set (he/him)
+Has a TypeScript project (scoreboard-pro)
+Email is visible
+🚀 Improvement Suggestions
+1. 📝 Add a Profile README
+The Black-hat-byte repo says "Config files for my GitHub profile" — he needs to add a proper README.md inside it with:
+
+A short bio ("3rd year B.Tech CSE student...")
+Skills/tech stack with badges
+What he's currently learning
+Links to socials/LinkedIn
+2. 🏷️ Add a Bio
+There's no bio visible under his name. He should add something like:
+
+"3rd year B.Tech CSE student | TypeScript | Web Dev | Open to collaborations"
+
+3. 🌐 Add Location & Links
+Add city/college name
+Link his LinkedIn or portfolio if he has one
+Currently only email is there
+4. 💚 Contribution Graph is Nearly Empty
+Only 5 contributions in a whole year — this is a red flag for recruiters. Anuj should:
+
+Commit code daily or weekly, even small projects
+Make personal projects public
+Contribute to open source
+5. 📁 More Repositories Needed
+Only 3 repos total. He should:
+
+Upload college projects, assignments, mini-projects
+Add a README to every repo with description, tech used, and how to run it
+6. 🔁 Start Following People
+0 following — he should follow classmates, professors, open source devs to build a network and discover good repos.
+
+7. ⭐ Pin Better Repositories
+scoreboard-pro (TypeScript) looks promising — but the Black-hat-byte repo (profile config) shouldn't be pinned as a "popular" repo. Pin actual projects instead.
+
+8. 🏆 Add Topics/Tags to Repos
+Each repo should have topic tags like typescript, web-development, beginner, etc. for discoverability.
+
+✅ Quick Priority List for Anuj
+Priority	Task
+🔴 High	Add bio + location
+🔴 High	Write a proper profile README
+🔴 High	Start committing regularly
+🟡 Medium	Add more project repos
+🟡 Medium	Follow people & get followers
+🟢 Low	Add LinkedIn/portfolio link
+🟢 Low	Add repo topics/tags
+Want me to write a full profile README for Anuj that he can directly paste into his Black-hat-byte repo? 😊
+
+yes yes and if you want any detail please let me know i provide you for this readme
+
+May 18
+Sure! I'd love to make it as personalized as possible for Anuj. Let me ask a few quick questions:
+
+Also, a couple more things that would really help personalize it — can you share:
+
+Anuj's LinkedIn profile URL (if he has one)
+His college name
+Any short quote or tagline he likes (optional but cool!)
+Q: What tech skills does Anuj know or is learning? (Select all that apply)
+A: HTML/CSS, JavaScript, TypeScript, Python, C/C++, React, Node.js
+
+Q: What is Anuj's current focus?
+A: AI/ML
+
+Q: What should be included in the README? (Select all that apply)
+A: GitHub Stats, Streak Counter, Social Links, Currently Learning section
+
+May 18
+Perfect! And what about:
+
+College name?
+LinkedIn URL? (even partial like linkedin.com/in/anuj-...)
+Any cool tagline/quote he likes? (optional)
+college name: madan mohan malaviya university of technology Linkedln https://www.linkedin.com/in/anuj-pratap-maurya-577985294/  cool tagline you add yourself any good
+
+May 18
+Perfect! I have everything I need. Let me create an awesome README for Anuj! 🚀
+
+
+Check frontend design skill
+Check frontend design skill
+Now let me create the README.md file:
+
+
+Created a file, read a file
+Created a file, read a file
+Here's Anuj's brand new GitHub Profile README! 🎉
+
+📋 How Anuj can use this:
+Go to github.com/new and create a repo named exactly Black-hat-byte (it already exists, so skip this!)
+Open the existing Black-hat-byte repo
+Click on README.md → Edit (pencil icon)
+Delete everything and paste the contents of this file
+Click "Commit changes" ✅
+✨ What's included in the README:
+🌊 Animated wave header with his name
+⌨️ Typing animation with his roles
+💻 TypeScript-style "About Me" code block
+🛠️ All his tech skills with badges
+📊 GitHub Stats + Streak Counter
+🏆 Trophy showcase
+📈 Contribution activity graph
+🤝 Social links (LinkedIn + Email)
+Tell Anuj — the more he commits, the more impressive those stats cards will look! 💪 All the best to him, Shikha! 😊
+
+
+Readme
+Document · MD 
+hey actually the existing project is another project names exactly this so i need to change that name? then make repository for this
+
+May 18
+Yes! Anuj needs to create a special repository with his exact username. Here's what to do:
+
+🔧 Step-by-step for Anuj:
+Go to github.com/new
+In "Repository name" type exactly: Black-hat-byte
+⚠️ But wait — you said that name is already taken by another project!
+
+So Anuj has 2 options:
+Option A — Rename the existing repo (Recommended)
+
+Go to the existing Black-hat-byte repo
+Settings → scroll to "Repository name" → rename it to something like black-hat-byte-config or any other name
+Then create a new repo named exactly Black-hat-byte
+Paste the README there ✅
+Option B — Delete the existing repo
+
+Only if that repo has nothing important
+Go to its Settings → scroll to bottom → "Delete this repository"
+Then create a new one named Black-hat-byte
+💡 The profile README only works if the repo name matches the GitHub username exactly — in Anuj's case it must be Black-hat-byte (case doesn't matter but spelling must match!)
+
+Once he creates the new repo and adds the README.md file there, his profile will light up! 🚀
+
+Which option does Anuj want to go with — rename or delete the old one?
+
+1779098647305_image.png
+yhi hai to mai kya rkun ab ??
+
+May 18
+Oh perfect! 🎉 Anuj already has the Black-hat-byte repo created and it's empty — this is exactly what we need!
+
+✅ Ab sirf ye karna hai — super easy!
+Step 1: Us repo mein click karo "creating a new file"
+
+Step 2: File name mein type karo:
+
+README.md
+Step 3: Neeche jo bada text box hai usme humara poora README content paste karo (jo file maine abhi download ke liye diya tha)
+
+Step 4: Neeche scroll karo → "Commit new file" button click karo ✅
+
+🎯 That's it! Done!
+Jaise hi commit karega, Anuj ka GitHub profile automatically wo beautiful README show karne lagega! 🚀
+
+💡 Tip: File download karke open karo, Ctrl+A se sab select karo, copy karo aur GitHub ke text box mein paste karo!
+
+Karo try aur screenshot bhejo — dekh lete hain kaisa dikh raha hai! 😊
+
+hey when i click creating a new file it show exactly same page again where we have to write readme
+
+May 18
+Haha no worries! 😄 That's the file editor page — that's exactly where you need to be!
+
+✅ Ye karo step by step:
+Step 1: Sabse upar ek box hoga jisme likha hoga "Name your file..." → Wahan type karo: README.md
+
+Step 2: Neeche ek bada empty text area hoga → Wahan humara poora README content paste karo
+
+Step 3: Upar right side mein "Commit changes" button hoga (green ya blue) → Us par click karo ✅
+
+📋 README file kaise open karein:
+
+Maine jo README.md file download ke liye di thi
+Use open karo → Ctrl+A (sab select) → Ctrl+C (copy)
+GitHub ke text area mein Ctrl+V (paste)
+Phir commit karo — ho jayega! Screenshot bhejo jab ho jaye! 🚀
+
+descriptioin ?
+
+May 18
+Description box mein ye paste karo:
+
+✨ My GitHub Profile README
+Ya simple rakho:
+
+Add profile README
+Dono mein se koi bhi chalega — ye sirf ek commit message hota hai, profile par show nahi hota! 😊
+
+Commit karo aur screenshot bhejo! 🚀
+
+ye github trophie kya hia bhai mtlb ch ya hai fak e
+
+May 18
+Haha 😄 bilkul real hai bhai, fake nahi!
+
+GitHub Trophies ek free open-source tool hai jo automatically Anuj ki GitHub activity dekh ke trophies generate karta hai jaise:
+
+Trophy	Kaise milti hai
+🏆 Commits	Kitne commits kiye
+⭐ Stars	Kitne stars mile repos par
+🔀 Followers	Kitne followers hain
+📦 Repos	Kitni repositories banayi
+🎯 Issues	Kitne issues solve kiye
+💡 Abhi Anuj ki activity kam hai toh trophies chhoti dikhenge — jaise jaise commits aur projects badhenge, trophies automatically upgrade hoti rahegi!
+
+Bilkul real hai — bas active rehna padega GitHub par! 💪😄
+
+
+--- ## 👨‍💻 About Me ```typescript const anuj = { name: "Anuj Pratap Maurya", username: "Black-hat-byte", university: "Madan Mohan Malaviya University of Technology", degree: "B.Tech CSE — 3rd Year", pronouns: "he/him", currentFocus: ["Artificial Intelligence", "Machine Learning"],
+
+pasted
+
+hey i remove some not impressive thing s now can you make it polished like two place contacts, and the footer remove... and what make it better
+
+May 18
+I can see what you've kept! Let me fix it properly — remove duplicate contacts, remove footer, and make it more polished. Let me rewrite the full clean version:
+
+
+Created 2 files, ran a command, read a file
+Created 2 files, ran a command, read a file
+Lo ready hai! ✅ Here's what I fixed and improved:
+
+🔧 Changes Made:
+✅ Duplicate contact removed — links sirf ek jagah hain (top par, header ke neeche)
+✅ Footer wave removed — clean ending hai ab
+✅ About Me code block aligned — colons properly aligned, looks more professional
+✅ Flow clean hai — Header → About → Learning → Skills → Stats → Trophies → Graph → End
+📋 GitHub par kaise update karein:
+Anuj ke Black-hat-byte repo mein jao
+README.md file open karo → pencil (edit) icon click karo
+Ctrl+A → sab delete karo
+Naya content paste karo
+Commit changes ✅
+Kuch aur change karna ho toh batao! 😊
+
+
+Readme
+Document · MD 
+hey pagal , what i send you i removed something please edit on that what i send you not create yourself again like trophies , contribution .... go through what i send you
+
+May 18
+Arey sorry yaar! 😅 Tu sahi keh raha hai — tu jo bheja tha uspe hi edit karna chahiye tha!
+
+Tu jo content bheja tha usmein ye tha:
+
+Duplicate contact — ek top par, ek bottom par "Let's Connect" section mein
+Footer wave — tha
+Toh sirf ye do cheezein fix karni hain — bottom "Let's Connect" section remove karo aur footer remove karo, baaki sab same rakho jo tune bheja tha. Sahi hai na? ✅
+
+Confirm kar toh mai usi pe edit karke deta hoon! 😊
+
+han aur agr koi section idhr udhr ho to use bhi theek kr den abt add na krna kuch extra
+
+May 18
+Bilkul! Let me go through exactly what you sent:
+
+
+Created 2 files, ran a command, read a file
+Created 2 files, ran a command, read a file
+Lo done! ✅ Sirf yahi 3 changes kiye jo tune bola tha:
+
+❌ "Let's Connect" section — removed (duplicate tha)
+❌ Footer wave — removed
+🔀 Section order fix — About Me → Tech Stack → Currently Learning → GitHub Stats (logical flow)
+Kuch aur change karna ho toh batao! 😊
+
+
+Readme
+Document · MD 
+
+# 💫 About Me: 🔭 I’m currently working on full-stack web development projects and improving real-world deployment skills<br>🤝 I’m looking to collaborate on MERN stack projects, open-source contributions, and impactful problem-solving apps<br>🌱 I’m currently learning advanced backend development,
+
+pasted
+
+hey sorry but i want  exactly same style.... for my frined so as you know what content you have to put ... so make look like this for my frined also ....
+
+May 18
+Ohhh! Ye tera apna README hai na Shikha! 😄 Same GPRM style chahiye Anuj ke liye — bilkul samajh gaya! Abhi banata hoon! 🔥
+
+
+Ran a command, created a file, read a file
+Ran a command, created a file, read a file
+Lo Shikha! Exactly tera wala style — same GPRM format! ✅
+
+Kya kiya:
+✅ Same About Me format — same icons, same <br> style
+✅ Same Socials section — LinkedIn + Email
+✅ Same Tech Stack badge style — Anuj ki skills ke saath
+✅ Same GitHub Stats — streak, top langs, stats cards
+✅ Same profile views counter at bottom
+❌ Koi extra fancy header/footer nahi — clean same as tera!
+Bas copy karke Anuj ke README mein paste kar do! 😊
+
+
+Readme
+Document · MD 
+1779102268892_image.png
+hey you add only three col total cont, current streak  and longest streak i eant upper and lower section also
+
+May 18
+Haan Shikha! Ye tera GitHub Stats section hai — I can see the issue! The stats card URL mein kuch parameters missing hain. Let me fix it:
+
+
+Check current README
+Check current README
+Dekh Shikha — teen alag cards already hain README mein:
+
+Stats card (Total Stars, Commits, PRs etc.) ✅
+Streak card (Current streak, longest streak) ✅
+Top Languages card ✅
+Ye toh tera apna profile ka screenshot hai — Shikha Sahu's GitHub Stats likh raha hai! 😄
+
+Anuj ke README mein sab theek hai. Aur "Color not valid 0" error profile views counter mein hai — wo fix kar deta hoon:
+
+
+Edited a file, read a file
+Edited a file, read a file
+"Color not valid 0" error fix ho gaya! ✅
+
+Aur Shikha — wo screenshot tera apna GitHub Stats tha, Anuj ka nahi! 😄 Anuj ke stats abhi kam dikhenge kyunki uske commits bahut kam hain — jaise jaise wo active hoga, sab cards properly fill ho jayenge! 💪
+
+
+Readme
+Document · MD 
+accha mere me bhi profile views ka error hai... theek kro do ---
+[![](https://komarev.com/ghpvc/?username=Shikha18Sahu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+May 18
+Easy fix! Bas color=0 ko color=blue karo:
+
+[![](https://komarev.com/ghpvc/?username=Shikha18Sahu&color=blue&style=flat)](https://visitcount.itsvg.in)
+Bas ye line apne README mein replace kar do — ho jayega! ✅
+
+yeah done! now i wan tto make portfolio for my friend same style as mine : if you want know something about him tell me baki mai bta dun we are in same college and were same school also  ok  i send you mine and you create for mine friend okay :
+
+May 18
+Haan bilkul! Pehle tera portfolio send kar — uski style dekh ke Anuj ka banaunga! 😊
+
+Aur saath mein ye bhi bata do Anuj ke baare mein:
+
+Koi project hai uska? (name + description)
+Koi achievement/certificate hai?
+Hobbies/interests kya hain?
+Baaki info toh already hai hamare paas (college, skills, LinkedIn, email) — so jaldi ban jayega! 🔥
+
+https://github.com/Shikha18Sahu/shikha-portfolio
+
+May 18
+
+Searched the web
+Searched the web
+Tera portfolio code dekh liya! Ab actual HTML/CSS/JS files bhi fetch karta hoon:
+
+
+Searched the web
+Searched the web
+Tera portfolio dekh liya Shikha! Bohot impressive hai! 🔥
+
+Ab Anuj ke liye same style mein banane se pehle mujhe kuch info chahiye:
+
+Projects — Anuj ke koi projects hain? (scoreboard-pro ke alawa) Name + kya karta hai?
+Experience/Internship — koi internship ya certificate hai?
+Competitive coding — LeetCode/CodeChef/HackerRank profile hai?
+CGPA kya hai uska?
+School — same Ganga Inter College Prayagraj? Ya alag?
+Baaki sab toh hai hamare paas already! Jaldi bata — ek dum dhakad portfolio banate hain Anuj ka! 😄
+
+projects you can see from : https://github.com/Black-hat-byte internship : no coding: no he not interested so much cgpa 7.53 school same
+May 18
+
+Searched the web
+Searched the web
+Sab info mil gayi! Scoreboard-pro ek real project hai — React + TypeScript + Supabase + Tailwind + Vite se bana hai aur live bhi hai! Ab tera wala style copy karke Anuj ka portfolio banata hoon! 🔥
+
+
+Read frontend design skill
+Read frontend design skill
+Ab banata hoon! Tera portfolio ki style — dark futuristic, typewriter effect, flip cards, animated stats — same sab Anuj ke liye! 🚀
+
+
+Created 3 files, ran a command, read a file
+Created 3 files, ran a command, read a file
+Anuj ka portfolio ready hai! 🎉🔥
+
+✨ Same style jo tera hai — yahi sab include hai:
+🌑 Dark futuristic design — same color palette, same vibe
+⌨️ Typewriter animation — rotating phrases
+💻 Code card in hero — developer.ts style
+🃏 3D Flip project cards — Scoreboard Pro + Portfolio
+📊 Animated stats counter — Live Project, CGPA, Skills
+🖱️ Custom cursor — same as tera
+📜 Scroll reveal animations
+📱 Fully responsive
+🚀 GitHub Pages par deploy kaise karein:
+GitHub par new repo banao — naam: anuj-portfolio
+Teeno files (index.html, style.css, script.js) upload karo
+Settings → Pages → Source: main branch → Save
+Live ho jayega: black-hat-byte.github.io/anuj-portfolio 🌐
+Kuch aur change karna ho toh batao Shikha! 😊
+
+
+Index
+Code · HTML 
+
+Style
+Code · CSS 
+
+Script
+JS 
+how can i deploy this using github
+
+May 18
+Easy hai! Step by step karo:
+
+📁 Step 1 — New Repository Banao
+GitHub.com par jao → "+" icon → "New repository"
+Repository name: anuj-portfolio
+Public select karo
+"Create repository" click karo
+📤 Step 2 — Files Upload Karo
+Repo mein "uploading an existing file" click karo
+Teeno files drag & drop karo:
+index.html
+style.css
+script.js
+"Commit changes" click karo ✅
+🌐 Step 3 — GitHub Pages Enable Karo
+Repo mein Settings tab click karo
+Left sidebar mein "Pages" click karo
+Source ke neeche — "Deploy from a branch" select karo
+Branch: main | Folder: / (root)
+Save click karo ✅
+⏳ Step 4 — Wait & Visit
+2-3 minutes wait karo
+Phir visit karo:
+https://black-hat-byte.github.io/anuj-portfolio
+💡 Tip: Agar files download nahi ho rahi toh Claude ke chat mein jo 3 files show ho rahi hain — unhe individually open karke content copy karo aur GitHub par manually paste karke save karo!
+
+Try karo aur batao! 🚀
+
+hey it's very static like no rotating card nither looking very modern wait i send you my portfolio code you have to take idea from then but taking information of anuj  okay
+
+10:26 AM
+Haan bilkul! Tera code send kar — main dekhunga exactly kaise tera portfolio kaam karta hai, same animations, same interactions, same modern feel — bas Anuj ki info dalunga! 📂
+
+Send kar tera portfolio ka code! 😊
+
+
+index (5).html
+html
+
+
+style (2).css
+css
+
+
+script (2).js
+114 lines
+
+js
+
+and yes thoda bhut color style change kr dena apne acoridng lge na ki exact style copy hui hai
+
+10:28 AM
+Let me read all three files properly first!
+
+
+Ran 2 commands, viewed a file
+Ran 2 commands, viewed a file
+Ab sab kuch dekh liya! Tera exact code hai — same fonts, same flip cards, same cursor, same orbs, same everything. Ab Anuj ka banata hoon — same structure, sirf alag color palette aur Anuj ki info! 🔥
+
+
+Created 3 files, ran a command, read a file
+Created 3 files, ran a command, read a file
+Lo Shikha! Ab ekdum tera wala feel hai — but Anuj ka apna color! 🔥
+
+✅ Kya same rakha tera se:
+🖱️ Same smooth lagging cursor with ring effect
+🃏 Same 3D flip project cards with visual rings + back face features
+⌨️ Same typewriter effect
+🌊 Same floating orbs background + grid
+🏷️ Same floating badges on code card
+🎯 Same tilt effect on code card hover
+📊 Same animated stat counters
+💫 Same scroll reveal animations
+🔢 Same navbar scroll effect
+🎨 Kya alag hai (Anuj ka apna style):
+Orange + Sky Blue color palette (tera tha cyan + purple)
+Dark purple-tinted bg (tera tha blue-tinted)
+Logo AM instead of SS
+Scrollbar bhi orange → sky gradient
+Deploy karo GitHub Pages par — ekdum dhakad dikhega! 😊
+
+
+Index
+Code · HTML 
+
+Style
+Code · CSS 
+
+Script
+JS 
+
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Style · CSS
+/* ══════════════════════════════════════
+   ANUJ PRATAP MAURYA — PORTFOLIO STYLESHEET
+   ══════════════════════════════════════ */
+ 
+/* ── TOKENS ── */
 :root {
-  --bg: #0a0a0f;
-  --bg2: #0f0f1a;
-  --card: #12121f;
-  --border: #1e1e35;
-  --accent: #00e5ff;
-  --accent2: #7b5ea7;
-  --text: #e8e8f0;
-  --muted: #6b6b8a;
-  --font-display: 'Syne', sans-serif;
-  --font-mono: 'JetBrains Mono', monospace;
+  --bg: #070508;
+  --surface: #0f0a12;
+  --surface2: #150f1a;
+  --border: rgba(255,255,255,0.07);
+  --border-glow: rgba(251,146,60,0.3);
+  --orange: #fb923c;
+  --orange-dim: rgba(251,146,60,0.12);
+  --sky: #38bdf8;
+  --sky-dim: rgba(56,189,248,0.12);
+  --purple: #a855f7;
+  --purple-dim: rgba(168,85,247,0.12);
+  --green: #34d399;
+  --green-dim: rgba(52,211,153,0.12);
+  --amber: #fbbf24;
+  --text: #e2e8f0;
+  --text-muted: #64748b;
+  --text-dim: #94a3b8;
+  --font-display: 'Cabinet Grotesk', sans-serif;
+  --font-mono: 'Instrument Mono', monospace;
 }
-
+ 
+/* ── RESET ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
-
+ 
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: var(--font-mono);
-  cursor: none;
+  font-family: var(--font-display);
   overflow-x: hidden;
+  cursor: none;
 }
-
-/* CUSTOM CURSOR */
+ 
+/* ── CUSTOM CURSOR ── */
+#cursor {
+  position: fixed; width: 12px; height: 12px;
+  background: var(--orange); border-radius: 50%;
+  pointer-events: none; z-index: 9999;
+  transform: translate(-50%,-50%);
+  transition: transform 0.1s, width 0.3s, height 0.3s, opacity 0.3s;
+  mix-blend-mode: screen;
+}
+#cursor-ring {
+  position: fixed; width: 40px; height: 40px;
+  border: 1.5px solid rgba(251,146,60,0.5);
+  border-radius: 50%; pointer-events: none; z-index: 9998;
+  transform: translate(-50%,-50%);
+  transition: transform 0.18s ease, width 0.3s, height 0.3s, border-color 0.3s;
+}
+body:has(a:hover) #cursor { transform: translate(-50%,-50%) scale(2.5); opacity: 0.6; }
+body:has(a:hover) #cursor-ring { width: 60px; height: 60px; border-color: rgba(56,189,248,0.6); }
+ 
+/* ── SCROLLBAR ── */
+::-webkit-scrollbar { width: 3px; }
+::-webkit-scrollbar-thumb { background: linear-gradient(var(--orange), var(--sky)); }
+ 
+/* ── NOISE OVERLAY ── */
 body::before {
   content: '';
-  width: 10px; height: 10px;
-  background: var(--accent);
-  border-radius: 50%;
-  position: fixed;
-  pointer-events: none;
-  z-index: 9999;
-  transform: translate(-50%, -50%);
-  transition: transform 0.1s;
-  mix-blend-mode: difference;
-  left: var(--cx, -100px);
-  top: var(--cy, -100px);
+  position: fixed; inset: 0; z-index: 0; pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+  opacity: 0.4;
 }
-
-/* ===== NAV ===== */
+ 
+/* ── NAVBAR ── */
 #navbar {
-  position: fixed; top: 0; left: 0; right: 0;
-  z-index: 100;
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  height: 68px; padding: 0 2.5rem;
   display: flex; align-items: center; justify-content: space-between;
-  padding: 1.2rem 4rem;
-  background: rgba(10,10,15,0.85);
-  backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--border);
+  transition: all 0.4s ease;
 }
-
+#navbar.scrolled {
+  background: rgba(7,5,8,0.88);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(251,146,60,0.08);
+}
 .logo {
-  font-family: var(--font-display);
-  font-size: 1.4rem; font-weight: 800;
-  color: var(--accent);
-  text-decoration: none;
-  letter-spacing: 2px;
+  width: 42px; height: 42px; border-radius: 10px;
+  background: linear-gradient(135deg, var(--orange), var(--sky));
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 800; font-size: 0.9rem; color: #fff;
+  text-decoration: none; position: relative; overflow: hidden;
+  transition: transform 0.3s;
 }
-
+.logo::after {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(135deg, var(--sky), var(--orange));
+  opacity: 0; transition: opacity 0.4s;
+}
+.logo:hover { transform: rotate(10deg) scale(1.05); }
+.logo:hover::after { opacity: 1; }
+.logo span { position: relative; z-index: 1; }
+ 
 .nav-links { display: flex; gap: 2.5rem; }
-.nav-links a {
-  color: var(--muted);
-  text-decoration: none;
-  font-size: 0.75rem;
-  letter-spacing: 2px;
-  transition: color 0.2s;
+.nav-link {
+  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.15em;
+  color: var(--text-muted); text-decoration: none;
+  position: relative; transition: color 0.2s; font-family: var(--font-mono);
 }
-.nav-links a:hover { color: var(--accent); }
-
-/* ===== HERO ===== */
+.nav-link::after {
+  content: ''; position: absolute; bottom: -4px; left: 0; right: 0;
+  height: 1px; background: var(--orange);
+  transform: scaleX(0); transform-origin: left; transition: transform 0.3s;
+}
+.nav-link:hover { color: var(--text); }
+.nav-link:hover::after { transform: scaleX(1); }
+ 
+/* ── HERO ── */
 #hero {
-  min-height: 100vh;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-items: center;
-  gap: 4rem;
-  padding: 8rem 4rem 4rem;
-  position: relative;
-  background: radial-gradient(ellipse at 20% 50%, rgba(0,229,255,0.04) 0%, transparent 60%),
-              radial-gradient(ellipse at 80% 20%, rgba(123,94,167,0.06) 0%, transparent 60%);
+  min-height: 100vh; display: flex; align-items: center;
+  padding: 0 2.5rem; position: relative; overflow: hidden;
 }
-
+ 
+.hero-bg {
+  position: absolute; inset: 0; z-index: 0;
+  background:
+    radial-gradient(ellipse 70% 50% at 65% 40%, rgba(251,146,60,0.05) 0%, transparent 70%),
+    radial-gradient(ellipse 40% 40% at 80% 70%, rgba(56,189,248,0.04) 0%, transparent 70%);
+}
+ 
+.hero-grid-bg {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background-image:
+    linear-gradient(rgba(251,146,60,0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(251,146,60,0.025) 1px, transparent 1px);
+  background-size: 64px 64px;
+  mask-image: radial-gradient(ellipse 80% 80% at 50% 50%, black, transparent);
+}
+ 
+.orb {
+  position: absolute; border-radius: 50%; pointer-events: none;
+  filter: blur(80px); animation: orbFloat 8s ease-in-out infinite;
+}
+.orb1 { width: 500px; height: 500px; background: rgba(251,146,60,0.04); top: -100px; right: -100px; }
+.orb2 { width: 400px; height: 400px; background: rgba(56,189,248,0.035); bottom: -50px; right: 200px; animation-delay: -4s; }
+ 
+@keyframes orbFloat {
+  0%,100% { transform: translate(0,0) scale(1); }
+  50% { transform: translate(-20px,15px) scale(1.03); }
+}
+ 
+.hero-inner {
+  max-width: 1240px; margin: 0 auto; width: 100%;
+  display: grid; grid-template-columns: 1fr 1fr; gap: 4rem;
+  align-items: center; position: relative; z-index: 1; padding-top: 5rem;
+}
+ 
 .status-badge {
-  display: inline-block;
-  padding: 0.4rem 1rem;
-  border: 1px solid var(--accent);
-  border-radius: 20px;
-  color: var(--accent);
-  font-size: 0.7rem;
-  letter-spacing: 2px;
-  margin-bottom: 1.5rem;
-  animation: pulse-border 2s infinite;
+  display: inline-flex; align-items: center; gap: 10px;
+  padding: 7px 18px; border-radius: 100px;
+  border: 1px solid rgba(52,211,153,0.35);
+  background: rgba(52,211,153,0.06);
+  margin-bottom: 1.8rem;
+  animation: fadeSlideUp 0.6s ease both;
 }
-
-@keyframes pulse-border {
-  0%, 100% { box-shadow: 0 0 0 0 rgba(0,229,255,0.3); }
-  50% { box-shadow: 0 0 0 6px rgba(0,229,255,0); }
+.status-dot {
+  width: 8px; height: 8px; border-radius: 50%; background: var(--green);
+  box-shadow: 0 0 8px var(--green);
+  animation: pulse 2s ease-in-out infinite;
 }
-
-#hero h1 {
-  font-family: var(--font-display);
-  font-size: clamp(2.8rem, 5vw, 4.5rem);
-  font-weight: 800;
-  line-height: 1.05;
-  margin-bottom: 1rem;
+@keyframes pulse {
+  0%,100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.4); opacity: 0.6; }
 }
-
-.accent { color: var(--accent); }
-
-.typewriter-wrap {
-  font-size: 1.1rem;
-  color: var(--accent2);
-  margin-bottom: 1.5rem;
-  min-height: 1.8rem;
+.status-text { font-family: var(--font-mono); font-size: 0.72rem; color: var(--green); letter-spacing: 0.05em; }
+ 
+.hero-name {
+  font-size: clamp(3.5rem, 8vw, 6.5rem);
+  font-weight: 800; line-height: 1.0; letter-spacing: -0.03em;
+  animation: fadeSlideUp 0.7s ease 0.1s both;
 }
-
-.cursor {
-  animation: blink 1s infinite;
-  color: var(--accent);
-}
-@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
-
-.hero-desc {
-  color: var(--muted);
-  font-size: 0.9rem;
-  line-height: 1.8;
-  max-width: 480px;
-  margin-bottom: 2rem;
-}
-
-.hero-stats {
-  display: flex; gap: 2rem;
-  margin-bottom: 2rem;
-}
-
-.stat { text-align: center; }
-.stat-num {
+.hero-name .line1 { color: #fff; display: block; }
+.hero-name .line2 {
   display: block;
-  font-family: var(--font-display);
-  font-size: 2rem; font-weight: 800;
-  color: var(--accent);
+  background: linear-gradient(135deg, var(--orange) 0%, var(--sky) 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+  filter: drop-shadow(0 0 30px rgba(251,146,60,0.3));
 }
-.stat-label {
-  font-size: 0.65rem;
-  color: var(--muted);
-  letter-spacing: 1px;
-  text-transform: uppercase;
+ 
+.hero-role {
+  font-family: var(--font-mono); font-size: clamp(0.9rem, 2vw, 1.1rem);
+  color: var(--orange); margin: 1rem 0 1.5rem;
+  min-height: 1.8rem;
+  animation: fadeSlideUp 0.7s ease 0.2s both;
 }
-
-.hero-btns { display: flex; gap: 1rem; flex-wrap: wrap; }
-
+ 
+.hero-bio {
+  color: var(--text-muted); line-height: 1.75; font-size: 0.96rem;
+  border-left: 2px solid rgba(251,146,60,0.4); padding-left: 1.2rem;
+  margin-bottom: 2rem;
+  animation: fadeSlideUp 0.7s ease 0.3s both;
+}
+ 
+.hero-stats {
+  display: flex; gap: 2.5rem; margin-bottom: 2.5rem;
+  animation: fadeSlideUp 0.7s ease 0.35s both;
+}
+.stat-val { font-size: 2.6rem; font-weight: 800; color: #fff; line-height: 1; }
+.stat-label { font-size: 0.68rem; color: var(--text-muted); margin-top: 4px; font-family: var(--font-mono); letter-spacing: 0.05em; }
+ 
+.hero-ctas {
+  display: flex; gap: 1rem; flex-wrap: wrap;
+  animation: fadeSlideUp 0.7s ease 0.4s both;
+}
+ 
 .btn-primary {
-  padding: 0.75rem 1.8rem;
-  background: var(--accent);
-  color: var(--bg);
-  border-radius: 4px;
-  text-decoration: none;
-  font-size: 0.8rem;
-  font-weight: 700;
-  letter-spacing: 1px;
-  transition: all 0.2s;
+  padding: 13px 30px; border-radius: 12px;
+  background: linear-gradient(135deg, var(--orange), var(--sky));
+  color: #fff; font-weight: 700; font-size: 0.88rem;
+  text-decoration: none; position: relative; overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.3s;
 }
-.btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,229,255,0.3); }
-
-.btn-secondary {
-  padding: 0.75rem 1.8rem;
-  border: 1px solid var(--border);
-  color: var(--text);
-  border-radius: 4px;
-  text-decoration: none;
-  font-size: 0.8rem;
-  letter-spacing: 1px;
-  transition: all 0.2s;
+.btn-primary::before {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(135deg, var(--sky), var(--orange));
+  opacity: 0; transition: opacity 0.3s;
 }
-.btn-secondary:hover { border-color: var(--accent); color: var(--accent); }
-
-/* HERO RIGHT */
-.hero-right {
-  display: flex; flex-direction: column; gap: 1rem;
-  animation: fadeInRight 1s ease both;
+.btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(251,146,60,0.25); }
+.btn-primary:hover::before { opacity: 1; }
+.btn-primary span { position: relative; z-index: 1; }
+ 
+.btn-outline {
+  padding: 13px 30px; border-radius: 12px;
+  border: 1px solid var(--border); color: var(--text-dim);
+  font-weight: 600; font-size: 0.88rem; text-decoration: none;
+  background: rgba(255,255,255,0.03);
+  transition: border-color 0.3s, color 0.3s, background 0.3s, transform 0.2s;
 }
-
-@keyframes fadeInRight { from { opacity:0; transform: translateX(30px); } to { opacity:1; transform: translateX(0); } }
-
-.specialization-tag {
-  display: flex; align-items: center; gap: 1rem;
-  padding: 0.8rem 1.2rem;
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 8px;
+.btn-outline:hover {
+  border-color: rgba(251,146,60,0.4); color: var(--orange);
+  background: var(--orange-dim); transform: translateY(-2px);
 }
-.tag-icon { font-size: 1.4rem; }
-.tag-label { font-size: 0.65rem; color: var(--muted); letter-spacing: 1px; }
-.tag-value { font-size: 0.9rem; color: var(--accent); font-weight: 600; }
-
+ 
+/* Code card */
 .code-card {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  overflow: hidden;
-  margin-top: 0.5rem;
+  position: relative;
+  animation: fadeSlideUp 0.8s ease 0.5s both;
 }
-.code-card-header {
-  display: flex; align-items: center; gap: 0.5rem;
-  padding: 0.7rem 1rem;
-  background: #0d0d1a;
-  border-bottom: 1px solid var(--border);
+.code-card-inner {
+  background: var(--surface); border-radius: 18px;
+  border: 1px solid rgba(251,146,60,0.15); overflow: hidden;
+  box-shadow: 0 0 60px rgba(251,146,60,0.06), 0 30px 60px rgba(0,0,0,0.4);
+  transition: transform 0.4s ease, box-shadow 0.4s;
 }
-.dot { width: 10px; height: 10px; border-radius: 50%; }
-.dot.red { background: #ff5f57; }
-.dot.yellow { background: #febc2e; }
-.dot.green { background: #28c840; }
-.code-filename { font-size: 0.7rem; color: var(--muted); margin-left: 0.5rem; }
-
-.code-body {
-  padding: 1.2rem;
-  font-size: 0.78rem;
-  line-height: 1.8;
-  white-space: pre;
-  overflow-x: auto;
+.code-card-inner:hover {
+  transform: perspective(800px) rotateY(-4deg) rotateX(2deg) translateY(-4px);
+  box-shadow: 0 0 80px rgba(251,146,60,0.1), 0 40px 80px rgba(0,0,0,0.5);
 }
-.kw { color: #7b5ea7; }
-.fn { color: #00e5ff; }
-.str { color: #a8ff78; }
-.num { color: #febc2e; }
-.bool { color: #ff7eb3; }
-
-.scroll-hint {
-  position: absolute; bottom: 2rem; left: 50%;
-  transform: translateX(-50%);
-  font-size: 0.65rem; letter-spacing: 4px; color: var(--muted);
-  animation: bounce 2s infinite;
+.code-header {
+  display: flex; align-items: center; gap: 8px;
+  padding: 12px 18px; border-bottom: 1px solid rgba(255,255,255,0.05);
+  background: rgba(0,0,0,0.2);
 }
-@keyframes bounce { 0%,100%{transform:translateX(-50%) translateY(0)} 50%{transform:translateX(-50%) translateY(6px)} }
-
-/* ===== SECTIONS COMMON ===== */
-section:not(#hero) {
-  padding: 6rem 4rem;
-  border-top: 1px solid var(--border);
+.dot-r { width: 12px; height: 12px; border-radius: 50%; background: #ff5f57; }
+.dot-y { width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e; }
+.dot-g { width: 12px; height: 12px; border-radius: 50%; background: #28c840; }
+.code-filename { font-family: var(--font-mono); font-size: 0.65rem; color: #4b5563; margin-left: 8px; }
+.code-body { padding: 1.6rem; }
+.code-body pre {
+  font-family: var(--font-mono); font-size: 0.78rem; line-height: 1.9;
+  color: var(--text-dim); overflow-x: auto; margin: 0;
 }
-
+.kw { color: var(--sky); }
+.fn { color: var(--orange); }
+.str { color: var(--green); }
+.num { color: var(--amber); }
+ 
+/* Floating badges */
+.float-badge {
+  position: absolute;
+  background: rgba(15,10,18,0.96);
+  border: 1px solid rgba(251,146,60,0.22);
+  border-radius: 12px; padding: 10px 18px;
+  display: flex; align-items: center; gap: 10px;
+  backdrop-filter: blur(10px);
+  animation: floatBadge 4s ease-in-out infinite;
+}
+@keyframes floatBadge {
+  0%,100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+.float-badge.top-right { top: -16px; right: -16px; animation-delay: 0s; }
+.float-badge.bot-left { bottom: -14px; left: 10px; animation-delay: -2s; }
+ 
+/* ── SECTIONS ── */
+.section { padding: 7rem 2.5rem; }
+.section-inner { max-width: 1240px; margin: 0 auto; }
+ 
 .section-label {
-  font-size: 0.65rem; letter-spacing: 4px;
-  color: var(--accent); margin-bottom: 0.8rem;
+  font-family: var(--font-mono); font-size: 0.62rem; letter-spacing: 0.25em;
+  color: var(--orange); text-transform: uppercase; display: flex; align-items: center; gap: 10px;
 }
+.section-label::before {
+  content: ''; width: 24px; height: 1px; background: var(--orange);
+}
+ 
 .section-title {
-  font-family: var(--font-display);
-  font-size: clamp(2rem, 4vw, 3rem);
-  font-weight: 800;
-  margin-bottom: 0.5rem;
+  font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 800; color: #fff;
+  margin: 0.6rem 0 1rem; line-height: 1.1; letter-spacing: -0.02em;
 }
-.section-sub { color: var(--muted); font-size: 0.85rem; margin-bottom: 3rem; }
-
-/* ===== PROJECTS ===== */
+.section-sub { color: var(--text-muted); font-size: 0.95rem; line-height: 1.7; max-width: 520px; }
+ 
+/* ── PROJECT CARDS (3D flip) ── */
 .projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 1.75rem; margin-top: 3rem;
 }
-
-.flip-card { perspective: 1000px; height: 380px; }
-.flip-inner {
-  position: relative; width: 100%; height: 100%;
+ 
+.proj-wrapper {
+  height: 480px; perspective: 1000px; cursor: pointer;
+}
+.proj-card-3d {
+  width: 100%; height: 100%; position: relative;
   transform-style: preserve-3d;
-  transition: transform 0.6s cubic-bezier(0.4,0,0.2,1);
+  transition: transform 0.7s cubic-bezier(0.4,0,0.2,1);
 }
-.flip-card:hover .flip-inner { transform: rotateY(180deg); }
-
-.flip-front, .flip-back {
-  position: absolute; inset: 0;
-  backface-visibility: hidden;
-  background: var(--card);
+.proj-wrapper:hover .proj-card-3d { transform: rotateY(180deg); }
+ 
+.proj-face {
+  position: absolute; inset: 0; border-radius: 18px;
+  backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  overflow: hidden;
+}
+ 
+.proj-front {
+  background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 12px;
+  display: flex; flex-direction: column;
+  transition: border-color 0.3s;
+}
+ 
+.proj-visual {
+  height: 190px; display: flex; align-items: center; justify-content: center;
+  position: relative; flex-shrink: 0;
+}
+.proj-visual-ring {
+  position: absolute; border-radius: 50%; border: 1px solid;
+}
+.proj-icon { font-size: 3.5rem; position: relative; z-index: 1; }
+.proj-tag-badge {
+  position: absolute; top: 14px; left: 14px;
+  border-radius: 6px; padding: 4px 10px;
+  font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.12em;
+}
+ 
+.proj-content { padding: 1.5rem; flex: 1; display: flex; flex-direction: column; }
+.proj-title { font-weight: 700; font-size: 1.2rem; color: #fff; margin-bottom: 0.5rem; }
+.proj-desc { color: var(--text-muted); font-size: 0.82rem; line-height: 1.65; margin-bottom: 1rem; flex: 1; }
+ 
+.proj-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 1rem; }
+.tag {
+  display: inline-flex; padding: 4px 10px; border-radius: 6px;
+  font-size: 0.68rem; font-weight: 600; font-family: var(--font-mono);
+  background: rgba(251,146,60,0.07); border: 1px solid rgba(251,146,60,0.15);
+  color: var(--text-muted); transition: all 0.2s;
+}
+.tag:hover { background: rgba(251,146,60,0.15); color: var(--orange); }
+ 
+.proj-links { display: flex; gap: 1rem; }
+.proj-link {
+  font-family: var(--font-mono); font-size: 0.7rem; color: var(--text-muted);
+  text-decoration: none; transition: color 0.2s;
+}
+.proj-link:hover { color: var(--orange); }
+ 
+.proj-back {
+  background: var(--surface2);
+  border: 1px solid rgba(251,146,60,0.12);
+  transform: rotateY(180deg);
+  display: flex; flex-direction: column;
+  justify-content: space-between;
   padding: 1.8rem;
-  display: flex; flex-direction: column; gap: 0.8rem;
 }
-.flip-back { transform: rotateY(180deg); background: #13132a; border-color: var(--accent2); }
-
-.project-tag { font-size: 0.6rem; letter-spacing: 2px; color: var(--accent); }
-.project-icon { font-size: 2.5rem; }
-.flip-front h3, .flip-back h3 {
-  font-family: var(--font-display);
-  font-size: 1.3rem; font-weight: 700;
+.proj-back-badge {
+  display: inline-block; border-radius: 6px; padding: 4px 10px;
+  font-family: var(--font-mono); font-size: 0.6rem;
+  letter-spacing: 0.12em; margin-bottom: 0.8rem;
 }
-.flip-front p { color: var(--muted); font-size: 0.82rem; line-height: 1.6; flex: 1; }
-.flip-back ul { list-style: none; flex: 1; }
-.flip-back ul li {
-  color: var(--muted); font-size: 0.8rem; line-height: 1.6;
-  padding: 0.3rem 0;
-  border-bottom: 1px solid var(--border);
+.proj-back-title {
+  font-size: 1.4rem; font-weight: 800; color: #fff; margin-bottom: 1.2rem;
 }
-.flip-back ul li::before { content: '▸ '; color: var(--accent); }
-
-.tech-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-.tech-tags span {
-  padding: 0.2rem 0.6rem;
-  background: rgba(0,229,255,0.08);
-  border: 1px solid rgba(0,229,255,0.2);
-  border-radius: 4px;
-  font-size: 0.65rem;
-  color: var(--accent);
+.proj-feat {
+  display: flex; gap: 10px; align-items: flex-start; margin-bottom: 0.8rem;
 }
-
-.project-links { display: flex; gap: 1rem; margin-top: auto; }
-.project-links a {
-  font-size: 0.75rem; color: var(--muted);
-  text-decoration: none;
-  transition: color 0.2s;
+.proj-feat-dot {
+  width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; margin-top: 6px;
 }
-.project-links a:hover { color: var(--accent); }
-
-.flip-hint { font-size: 0.6rem; color: var(--muted); letter-spacing: 2px; margin-top: auto; }
-
-/* ===== SKILLS ===== */
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
-}
-.skill-group {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 1.5rem;
-  transition: border-color 0.2s;
-}
-.skill-group:hover { border-color: var(--accent2); }
-.skill-icon { font-size: 1.5rem; margin-bottom: 0.6rem; }
-.skill-group h4 {
-  font-family: var(--font-display);
-  font-size: 0.9rem;
-  margin-bottom: 0.8rem;
-  color: var(--text);
-}
-.skill-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-.skill-pills span {
-  padding: 0.25rem 0.65rem;
-  background: rgba(123,94,167,0.1);
-  border: 1px solid var(--accent2);
-  border-radius: 20px;
-  font-size: 0.7rem;
-  color: #c4b0e0;
-}
-
-/* ===== EDUCATION ===== */
-.edu-list { display: flex; flex-direction: column; gap: 1.5rem; margin-top: 2rem; }
-.edu-card {
-  display: flex; gap: 2rem; align-items: flex-start;
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 1.5rem 2rem;
-  transition: border-color 0.2s;
-}
-.edu-card:hover { border-color: var(--accent); }
-.edu-year {
-  font-size: 0.75rem; color: var(--accent);
-  white-space: nowrap;
-  padding-top: 0.2rem;
-  min-width: 90px;
-}
-.edu-info h3 {
-  font-family: var(--font-display);
-  font-size: 1.05rem; font-weight: 700;
-  margin-bottom: 0.3rem;
-}
-.edu-college { color: var(--muted); font-size: 0.82rem; margin-bottom: 0.3rem; }
-.edu-meta { color: var(--accent); font-size: 0.8rem; margin-bottom: 0.2rem; }
-.edu-courses { color: var(--muted); font-size: 0.75rem; line-height: 1.6; }
-
-/* ===== CONTACT ===== */
-#contact { text-align: center; }
-.contact-sub {
-  color: var(--muted); font-size: 0.88rem;
-  line-height: 1.8; margin: 1rem 0 2.5rem;
-}
-.contact-links { display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
-.contact-main {
-  padding: 0.8rem 2rem;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  color: var(--text);
-  text-decoration: none;
-  font-size: 0.85rem;
+.proj-feat-text { font-size: 0.8rem; color: var(--text-dim); line-height: 1.55; }
+ 
+.proj-back-actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 0.5rem; }
+.back-btn {
+  padding: 9px 20px; border-radius: 10px; font-size: 0.78rem;
+  font-weight: 600; text-decoration: none; font-family: var(--font-mono);
   transition: all 0.2s;
 }
-.contact-main:hover { border-color: var(--accent); color: var(--accent); }
-.contact-footer {
-  display: flex; justify-content: center; gap: 2rem;
-  color: var(--muted); font-size: 0.8rem;
-  margin-bottom: 1rem;
-  flex-wrap: wrap;
+.back-btn-primary {
+  background: linear-gradient(135deg, var(--orange), var(--sky));
+  color: #fff;
 }
-.contact-footer a { color: var(--muted); text-decoration: none; transition: color 0.2s; }
-.contact-footer a:hover { color: var(--accent); }
-.copyright { color: var(--muted); font-size: 0.72rem; margin-top: 2rem; letter-spacing: 1px; }
-
-/* ===== SCROLL REVEAL ===== */
+.back-btn-primary:hover { opacity: 0.85; transform: translateY(-2px); }
+.back-btn-secondary {
+  border: 1px solid var(--border); color: var(--text-dim);
+  background: rgba(255,255,255,0.03);
+}
+.back-btn-secondary:hover { border-color: rgba(251,146,60,0.4); color: var(--orange); }
+ 
+.flip-hint {
+  position: absolute; bottom: 14px; right: 16px;
+  font-family: var(--font-mono); font-size: 0.6rem; color: var(--text-muted);
+  display: flex; align-items: center; gap: 6px;
+  animation: hintPulse 2s ease-in-out infinite;
+}
+@keyframes hintPulse { 0%,100% { opacity: 0.5; } 50% { opacity: 1; } }
+ 
+/* ── SKILLS ── */
+.skills-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.2rem; margin-top: 3rem;
+}
+ 
+.skill-card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 16px; padding: 1.4rem;
+  transition: border-color 0.3s, transform 0.3s, box-shadow 0.3s;
+}
+.skill-card:hover { transform: translateY(-4px); }
+ 
+.skill-card-header {
+  display: flex; align-items: center; gap: 10px; margin-bottom: 1rem;
+}
+.skill-icon {
+  width: 36px; height: 36px; border-radius: 8px;
+  display: flex; align-items: center; justify-content: center; font-size: 1.1rem;
+}
+.skill-cat { font-weight: 700; font-size: 0.88rem; }
+.skill-tags { display: flex; flex-wrap: wrap; gap: 7px; }
+ 
+/* ── EDUCATION ── */
+.exp-layout {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 5rem;
+  margin-top: 3rem;
+}
+ 
+.edu-card {
+  border-radius: 16px; padding: 1.6rem;
+  border: 1px solid rgba(251,146,60,0.2);
+  background: linear-gradient(135deg, rgba(251,146,60,0.04), rgba(56,189,248,0.04));
+  position: relative; overflow: hidden;
+  transition: border-color 0.3s, transform 0.3s;
+}
+.edu-card:hover { border-color: rgba(251,146,60,0.4); transform: translateX(4px); }
+.edu-card::after {
+  content: ''; position: absolute; top: 0; right: 0; bottom: 0;
+  width: 3px; background: linear-gradient(to bottom, var(--orange), var(--sky));
+}
+.edu-degree { font-weight: 800; font-size: 1rem; color: #fff; }
+.edu-uni { font-size: 0.85rem; font-weight: 600; color: var(--orange); margin: 4px 0 10px; }
+.edu-meta { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+.edu-meta span { font-family: var(--font-mono); font-size: 0.73rem; color: var(--text-muted); }
+.edu-courses { margin-top: 0.8rem; font-size: 0.77rem; color: var(--text-muted); line-height: 1.6; }
+ 
+/* ── CONTACT ── */
+#contact { padding: 8rem 2.5rem; text-align: center; position: relative; }
+.contact-bg {
+  position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(ellipse 60% 60% at 50% 50%, rgba(251,146,60,0.04), transparent 70%);
+}
+.contact-inner { max-width: 760px; margin: 0 auto; position: relative; z-index: 1; }
+.contact-title {
+  font-size: clamp(2.5rem, 7vw, 5rem); font-weight: 800; color: #fff;
+  letter-spacing: -0.03em; line-height: 1.0; margin: 0.8rem 0 1.5rem;
+}
+.contact-title .gradient-word {
+  background: linear-gradient(135deg, var(--orange), var(--sky));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.contact-sub { color: var(--text-muted); font-size: 1rem; line-height: 1.75; margin-bottom: 3rem; }
+.contact-ctas { display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 2.5rem; }
+.contact-info { display: flex; justify-content: center; align-items: center; gap: 1rem; flex-wrap: wrap; color: var(--text-muted); font-size: 0.82rem; margin-bottom: 1.5rem; }
+.contact-links {
+  display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;
+  border-top: 1px solid var(--border); padding-top: 1.5rem;
+}
+.contact-link { font-family: var(--font-mono); font-size: 0.72rem; color: var(--text-muted); text-decoration: none; transition: color 0.2s; }
+.contact-link:hover { color: var(--orange); }
+ 
+footer {
+  text-align: center; padding: 1.5rem;
+  border-top: 1px solid rgba(255,255,255,0.05);
+  color: var(--text-muted); font-size: 0.75rem; font-family: var(--font-mono);
+}
+ 
+/* ── ANIMATIONS ── */
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+ 
 .reveal {
-  opacity: 0;
-  transform: translateY(30px);
+  opacity: 0; transform: translateY(32px);
   transition: opacity 0.7s ease, transform 0.7s ease;
 }
 .reveal.visible { opacity: 1; transform: translateY(0); }
-
-/* ===== RESPONSIVE ===== */
+.reveal-d1 { transition-delay: 0.1s; }
+.reveal-d2 { transition-delay: 0.2s; }
+.reveal-d3 { transition-delay: 0.3s; }
+ 
+.blink { animation: blink 1s step-end infinite; }
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+ 
+/* ── MOBILE ── */
 @media (max-width: 900px) {
-  #hero { grid-template-columns: 1fr; padding: 6rem 2rem 3rem; }
-  .hero-right { order: -1; }
-  section:not(#hero) { padding: 4rem 2rem; }
-  #navbar { padding: 1rem 2rem; }
-  .nav-links { gap: 1.5rem; }
+  .hero-inner { grid-template-columns: 1fr; }
+  .code-card { display: none; }
 }
-@media (max-width: 600px) {
+@media (max-width: 768px) {
+  .exp-layout { grid-template-columns: 1fr; gap: 3rem; }
   .nav-links { display: none; }
-  .hero-stats { gap: 1rem; }
-  .projects-grid { grid-template-columns: 1fr; }
 }
+@media (max-width: 640px) {
+  .projects-grid { grid-template-columns: 1fr; }
+  .proj-wrapper { height: auto; perspective: none; }
+  .proj-card-3d { transform: none !important; }
+  .proj-face { position: relative; backface-visibility: visible; }
+  .proj-back { transform: none; display: none; }
+}
+ 
