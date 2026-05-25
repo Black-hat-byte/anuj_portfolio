@@ -1,7 +1,7 @@
 /* ══════════════════════════════════════
    ANUJ PRATAP MAURYA — PORTFOLIO STYLESHEET
    ══════════════════════════════════════ */
-
+@import url('https://fonts.googleapis.com/css2?family=Cabinet+Grotesk:wght@300;400;500;700;800&family=Instrument+Mono:wght@400;500&display=swap');
 /* ── TOKENS ── */
 :root {
   --bg: #070508;
