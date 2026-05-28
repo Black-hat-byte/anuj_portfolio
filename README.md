@@ -16,12 +16,12 @@ A personal portfolio website built with **HTML, CSS, and JavaScript** — showca
 
 ---
 
-## 📌 About
+## 📌 About: 
 A personal portfolio website where I showcase who I am, what I do, and the projects I've built. Features a custom animated cursor, typewriter effect, 3D flip project cards, scroll-reveal animations, and an interactive code card — all in a dark futuristic design with an orange & sky blue palette.
 
 ---
 
-## 📂 Sections
+## 📂 Sections: 
 | Section | Description |
 |---|---|
 | **Hero** | Introduction with animated stats and typewriter effect |
