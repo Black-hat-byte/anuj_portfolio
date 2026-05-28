@@ -83,5 +83,4 @@ To deploy your own version:
 - **Email:** anujpratapmaurya5@gmail.com
 
 ---
-
 ⭐ If you like this project, feel free to give it a star on GitHub!
