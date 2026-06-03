@@ -1,7 +1,7 @@
 # 🌐 Anuj Pratap Maurya | Portfolio Website
 A personal portfolio website built with **HTML, CSS, and JavaScript** — showcasing my skills, projects, education, and more.
 
-🔗 **Live Site:** [[black-hat-byte.github.io/anuj-portfolio](https://black-hat-byte.github.io/anuj-portfolio)](https://black-hat-byte.github.io/anuj_portfolio/)
+🔗 **Live Site:** [[black-hat-byte.github.io/anuj-portfolio](https://black-hat-byte.github.io/anuj-portfolio)]
 
 ---
 
